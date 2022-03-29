@@ -1,0 +1,47 @@
+﻿@model WebApplication1.Models.AnasayfaModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div id="dropDownListdiv">
+    @using (Html.BeginForm("Index", "Anasayfa", FormMethod.Post))
+    {
+        @Html.DropDownListFor(m => m.SehirID, Model.Sehirler, "Please select", new { @class = "form-control" })
+        @Html.DropDownListFor(m => m.IlceID, Model.Ilceler, "Please select", new { @class = "form-control" })
+        @Html.DropDownListFor(m => m.HastaneID, Model.Hastaneler, "Please select", new { @class = "form-control" })
+        <input type="submit" value="Submit" />
+    }
+
+</div>
+<script>
+    $(function () {
+                 $("#dropDownListdiv").on("change", "select", function () {
+                       var value = $(this).val();
+                       var id = $(this).attr("id");
+                       $.post("@Url.Action("setDropDrownList")", { type: id, value: value }, function (data) {
+                             switch (id) {
+                                     case "SehirID":
+                                     PopulateDropDown("#IlceID", data.Ilceler);
+                                     PopulateDropDown("#HastaneID", data.Hastaneler);
+                                         break;
+                                 case "IlceID":
+                                     PopulateDropDown("#HastaneID", data.Hastaneler);
+                                         break;
+                             }
+                     });
+                 });
+             });
+             function PopulateDropDown(dropDownId, list) {
+                 $(dropDownId).empty();
+                 $(dropDownId).append("<option>Please select</option>")
+                 $.each(list, function (index, row) {
+                     if (index == 0) {
+                         $(dropDownId).append("<option value='" + row.Value + "' selected='selected'>" + row.Text + "</option>");
+                     } else {
+                         $(dropDownId).append("<option value='" + row.Value + "'>" + row.Text + "</option>")
+                     }
+                 });
+             }
+</script>   

@@ -1,0 +1,63 @@
+﻿@model WebApplication1.Models.Hasta
+
+@{
+    ViewBag.Title = "Guncelle";
+}
+
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand">
+            <img src="~/Resim/kadin-doktor.jpg" alt="Logo" style="width:50px;" class="rounded-pill">
+        </a>
+    </div>
+    <ul class="navbar-nav">
+        <div class="container mt-3">
+            <div class="dropdown">
+                <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">
+                    @Model.HastaAdi
+                    @Model.HastaSoyadi
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="~/Kullanici">Anasayfa</a></li>
+                    <li><a class="dropdown-item" href="~/Kullanici/hastalar">Kullanıcı Bilgilerim</a></li>
+                    <li><a class="dropdown-item" href="~/Kullanici/Randevular">Randevularım</a></li>
+                    <li><a class="dropdown-item" href="~/Giris/Index">Çıkış</a></li>
+                </ul>
+            </div>
+        </div>
+    </ul>
+</nav>
+<br />
+<br />
+
+
+@using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-vertical">
+            <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.HastaID)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CepTel, htmlAttributes: new { @class = "control-label col-md-2" })
+        <br />
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.CepTel, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.CepTel, "", new { @class = "text-danger" })
+        </div>
+    </div>
+            <br />
+<div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input id="kaydet" type="submit" value="Kaydet" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+<br />
+<div>
+        @Html.ActionLink("Geri Dön", "Index", null, new { @id = "detaylink" })
+    </div>

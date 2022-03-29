@@ -1,0 +1,62 @@
+﻿@model IEnumerable<WebApplication1.Models.Doktor>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<form class="btn-group">
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Sehirs/Index">Şehirler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Ilces/Index">İlçeler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Hastanes/Index">Hastaneler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Brans/Index">Branşlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Doktors/Index">Doktorlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Giris/Index">Çıkış</button>
+</form>
+
+<br />
+<br />
+
+<p>
+    @Html.ActionLink("Yeni Doktor Ekle", "Create", null, new { @id = "createlink" })  
+</p>
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DoktorAdi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DoktorSoyadi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cinsiyet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brans.BransAdi)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.DoktorAdi)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DoktorSoyadi)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Cinsiyet)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Brans.BransAdi)
+    </td>
+    <td>
+        @Html.ActionLink("Güncelle", "Edit",null, new { id = item.DoktorID }, new { @id = "guncellelink" }) |
+        @Html.ActionLink("Detaylar", "Details",null, new { id = item.DoktorID }, new { @id = "detaylink" }) |
+        @Html.ActionLink("Sil", "Delete", null, new { id = item.DoktorID },  new { @id = "sillink" })
+    </td>
+</tr>
+    }
+
+</table>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<WebApplication1.Models.Ilce>
+
+@{
+    ViewBag.Title = "Index";
+}
+<form class="btn-group">
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Sehirs/Index">Şehirler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Ilces/Index">İlçeler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Hastanes/Index">Hastaneler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Brans/Index">Branşlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Doktors/Index">Doktorlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Giris/Index">Çıkış</button>
+</form>
+<br />
+<br />
+
+<p>
+    @Html.ActionLink("Yeni İlçe Ekle", "Create", null, new { @id = "createlink" })
+</p>
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Sehir.SehirAdi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IlceAdi)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sehir.SehirAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IlceAdi)
+            </td>
+            <td>
+                @Html.ActionLink("Güncelle", "Edit",null, new { id = item.IlceID }, new { @id = "guncellelink" }) |
+                @Html.ActionLink("Detaylar", "Details",null, new { id = item.IlceID }, new { @id = "detaylink" }) |
+                @Html.ActionLink("Sil", "Delete",null, new { id = item.IlceID }, new { @id = "sillink" })
+            </td>
+        </tr>
+    }
+
+</table>

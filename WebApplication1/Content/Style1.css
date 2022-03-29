@@ -1,0 +1,187 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}   
+
+/* BackGround*/
+.background 
+{
+    background-color: aliceblue;
+}
+
+/* Action Linkler*/
+
+#act {
+    background-color: darkseagreen;
+    text-decoration: none;
+}
+#createlink {
+    background-color: darkseagreen;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+}
+#guncellelink {
+    background-color:coral;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+    width: 50px;
+}
+
+#hastaguncelle {
+    background-color: #F78181;
+    text-decoration:none;
+    border-radius: 3px;
+    color: black;
+    width: 50px;
+}
+#sillink {
+
+    background-color: red;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+/*    width: 50px;*/
+}
+#sil {
+    background-color:crimson;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+    margin-left: 20px;
+}
+.deletelink {
+    background-color: red;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+    /*    width: 50px;*/
+}
+
+#detaylink {
+    background-color: lightblue;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+}
+
+
+/* Anasayfa*/
+.anasayfa{
+    width: 1300px;
+    height: 600px;
+    display:grid;
+    grid-template-columns: 450px 850px;
+
+}
+.anaSol{
+    margin: auto;
+}
+
+.anaSag{
+    
+}
+#drop {
+    width: 200px;
+    border-radius: 10px;
+}
+
+#rndv {
+    width: 300px;
+    border-radius: 6px;
+    background-color: #F78181;
+}
+
+/* Giriş*/
+
+.girisana{
+    width: auto;
+    height: 650px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.girissol{
+    display:grid;
+    grid-template-rows: 150px 500px;
+}
+
+.solust {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.solalt {
+    margin: auto;
+    justify-content:center;
+}
+
+.girisbtn {
+    width: 900px;
+    height: 35px;
+    background-color: #F78181;
+    border-radius: 10px;
+}
+.txt {
+    width: 900px;
+    height: 35px;
+    border-radius: 10px;
+
+}
+
+#cinsiyets {
+    width: 900px;
+    height: 35px;
+    border-radius: 10px;
+    border: 5px;
+}
+.yazı {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.resim {
+    height:200px; 
+    width: 300px;
+    border-radius: 20px;
+}
+
+
+/* tab Control*/
+
+.renk{
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+/* */
+#kaydet{
+    background-color: darkseagreen;
+}
+
+/*Nav Bar*/
+#nbar {
+    height: 40px;
+    width: 850px;
+    background-color: #0080ff;
+}
+
+.randevularım{
+    color: white;
+}
+.nbrandevu{
+    height:500px;
+}

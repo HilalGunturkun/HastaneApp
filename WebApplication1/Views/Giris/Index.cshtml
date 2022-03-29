@@ -1,0 +1,95 @@
+﻿@model WebApplication1.Models.Kullanici
+
+@{
+    ViewBag.Title = "Index";
+    List<SelectListItem> list = new List<SelectListItem>();
+    list.Add(new SelectListItem() { Text = "Kadın" });
+    list.Add(new SelectListItem() { Text = "Erkek" });
+}
+
+<body>
+    <script>
+        $(function () {
+            $("#tabs").tabs();
+        });
+    </script>
+
+    <div class="girisana">
+
+        <div class="girissol">
+
+            <div class="solust">
+
+                <div>
+                    <img class="resim" src="~/Resim/girislogo.png" />
+                </div>
+
+                <div>
+                    <br /><br />
+                    <h2 class="yazı"><i>SAĞLIĞINIZ BİZİM İÇİN <br /> HER ŞEYDEN ÖNEMLİ</i></h2>
+                </div>
+
+            </div>
+
+            <div class="solalt">
+                <div id="tabs">
+                    <ul>
+                        <li><a href="#tabs-1">Üye Girişi</a></li>
+                        <li><a href="#tabs-2">Üye Ol</a></li>
+                    </ul>
+                    <div id="tabs-1" class="tab">
+
+                        <br /><br />
+                        @using (Html.BeginForm("Giris", "Giris", FormMethod.Post))
+                        {
+                            @Html.TextBox("kullanici", null, new { @class = "txt", @placeholder = "T.C. Kimlik No", required = true, minlength = "11", maxlength = "11", pattern = "([1-9][0-9]*)", title = "Sadece rakam girebilirsiniz..." })
+                            <br />
+                            <br />
+                            @Html.TextBox("sifre", null, new { @class = "txt", @placeholder = "Şifre", required = true, minlength = "5", maxlength = "20" })
+                            <br />
+                            <br />
+                            <input type="submit" value="Giriş" class="girisbtn" />
+                            <br /><br /><br /><br /><br />
+                            <input type="image" src="~/Resim/appstorelogo.png" alt="Submit" width="145" height="70">
+                            <input type="image" src="~/Resim/googleplaylogo.png" alt="Submit" width="145" height="70">
+
+                        }
+                    </div>
+                    <div id="tabs-2" class="tab">
+                        @using (Html.BeginForm("UyeOl", "Giris", FormMethod.Post))
+                         {
+                            <i class="fa fa-user icon"></i>
+                            @Html.TextBox("kimlik", null, new { @class = "txt", @placeholder = "T.C. Kimlik No", required = true, minlength = "11", maxlength = "11", pattern = "([1-9][0-9]*)", title = "Sadece rakam girebilirsiniz..." })
+                            <br />
+                            <br />
+                            <i class="fa fa-key icon"></i>
+                            @Html.TextBox("no", null, new { @class = "txt", @placeholder = "Şifre", required = true, minlength = "5", maxlength = "20" })
+                            <br />
+                            <br />
+                            <i class="fa fa-user icon"></i>
+                            @Html.TextBox("ad", null, new { @class = "txt", @placeholder = "Ad", required = true })
+                            <br />
+                            <br />
+                            <i class="fa fa-user icon"></i>
+                            @Html.TextBox("soyad", null, new { @class = "txt", @placeholder = "Soyad", required = true })
+                            <br />
+                            <br />
+                            @Html.DropDownList("cinsiyet", list, "Cinsiyet", new { @class = "txt", required = true })
+                            <br />
+                            <br />
+                            @Html.TextBox("telefon", null, new { @class = "txt", @placeholder = "Telefon", required = true, minlength = "11", maxlength = "11", pattern = "([0-9][0-9]*)", title = "Sadece rakam girebilirsiniz..." })
+                            <br />
+                            <br />
+
+                            <input type="submit" value="Kaydet" class="girisbtn" />
+                         }
+                    </div>
+                </div>
+                @Html.ValidationSummary()
+            </div>
+        </div>
+        <div>
+            <img src="~/Resim/bebek.jpg" />
+        </div>
+    </div>
+</body>

@@ -1,0 +1,43 @@
+﻿@model WebApplication1.Models.Sehir
+
+@{
+    ViewBag.Title = "Create";
+}
+<form class="btn-group">
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Sehirs/Index">Şehirler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Ilces/Index">İlçeler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Hastanes/Index">Hastaneler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Brans/Index">Branşlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Doktors/Index">Doktorlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Giris/Index">Çıkış</button>
+</form>
+<br />
+<br />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Sehir</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.SehirAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SehirAdi, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SehirAdi, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input id="act" type="submit" value="Ekle" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<br />
+<div>
+    @Html.ActionLink("Geri Dön", "Index",null, new { @id = "detaylink" })
+</div>

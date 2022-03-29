@@ -1,0 +1,81 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}   
+.background 
+{
+    background-color: aliceblue;
+}
+
+header{
+    height: 83px;
+    width: 1250px;
+    display: grid;
+    grid-template-columns: 93px 1064px 93px;
+    margin: auto;
+}
+
+aside{
+    background-color:purple;
+}
+article {
+    font-family: 'Times New Roman', Times, serif;
+    /*text-align: center;
+    vertical-align: middle;*/
+    background-color: red;
+    
+}
+#act {
+    background-color: darkseagreen;
+    text-decoration: none;
+}
+#createlink {
+    background-color: darkseagreen;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+    /*width: 300px;
+    height: 300px;*/
+    /*font-family:'Times New Roman', Times, serif;*/
+    /*font-size: medium;*/
+}
+#guncellelink {
+    background-color: sienna;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+    width: 50px;
+}
+#sillink {
+
+    background-color: red;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+    width: 50px;
+}
+
+#detaylink {
+    background-color: lightblue;
+    text-decoration: none;
+    border-radius: 3px;
+    color: black;
+}
+
+#renk{
+    background-color:red;
+    width: 300px;
+}

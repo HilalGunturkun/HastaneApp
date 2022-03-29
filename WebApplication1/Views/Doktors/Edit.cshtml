@@ -1,0 +1,72 @@
+﻿@model WebApplication1.Models.Doktor
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<form class="btn-group">
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Sehirs/Index">Şehirler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Ilces/Index">İlçeler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Hastanes/Index">Hastaneler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Brans/Index">Branşlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Doktors/Index">Doktorlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Giris/Index">Çıkış</button>
+</form>
+
+<br />
+<br />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Doktor</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.DoktorID)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.DoktorAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.DoktorAdi, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.DoktorAdi, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.DoktorSoyadi, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.DoktorSoyadi, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.DoktorSoyadi, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Cinsiyet, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Cinsiyet, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Cinsiyet, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Brans.BransAdi)
+        <div class="col-md-10">
+            @Html.DropDownList("BransID", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.BransID, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input id="act" type="submit" value="Kaydet" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<br />
+<div>
+    @Html.ActionLink("Geri Dön", "Index", null, new { @id = "detaylink" })
+</div>

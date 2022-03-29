@@ -1,0 +1,60 @@
+﻿@model WebApplication1.Models.Hastane
+
+@{
+    ViewBag.Title = "Create";
+}
+<form class="btn-group">
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Sehirs/Index">Şehirler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Ilces/Index">İlçeler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Hastanes/Index">Hastaneler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Brans/Index">Branşlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Doktors/Index">Doktorlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Giris/Index">Çıkış</button>
+</form>
+
+<br />
+<br />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Hastane</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.HastaneAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.HastaneAdi, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.HastaneAdi, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Ilce.IlceAdi)
+        <div class="col-md-10">
+            @Html.DropDownList("IlceID", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.IlceID, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Telefon, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Telefon, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Telefon, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input id="act" type="submit" value="Ekle" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+<br />
+<div>
+    @Html.ActionLink("Geri Dön", "Index",null, new { @id = "detaylink" })
+</div>

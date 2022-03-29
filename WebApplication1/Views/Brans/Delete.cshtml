@@ -1,0 +1,45 @@
+﻿@model WebApplication1.Models.Brans
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<form class="btn-group">
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Sehirs/Index">Şehirler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Ilces/Index">İlçeler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Hastanes/Index">Hastaneler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Brans/Index">Branşlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Doktors/Index">Doktorlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Giris/Index">Çıkış</button>
+</form>
+<br />
+<br />
+
+
+<h3>Simek istediğinize emin misiniz?</h3>
+<div>
+    <h4>Brans</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BransAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BransAdi)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input id="sillink" type="submit" value="Sil" class="btn btn-default" /> 
+            <br /><br />
+            @Html.ActionLink("Geri Dön", "Index",null, new { @id = "detaylink" })
+        </div>
+    }
+</div>

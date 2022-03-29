@@ -1,0 +1,57 @@
+﻿@model WebApplication1.Models.Doktor
+
+@{
+    ViewBag.Title = "Details";
+}
+<form class="btn-group">
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Sehirs/Index">Şehirler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Ilces/Index">İlçeler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Hastanes/Index">Hastaneler</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Brans/Index">Branşlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Doktors/Index">Doktorlar</button>
+    <button style="width:217px" id="btn" class="btn btn-secondary" formaction="~/Giris/Index">Çıkış</button>
+</form>
+<br />
+<br />
+
+<div>
+    <h4>Doktor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DoktorAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DoktorAdi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DoktorSoyadi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DoktorSoyadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cinsiyet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cinsiyet)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Brans.BransAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brans.BransAdi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Güncelle", "Edit",null, new { id = Model.DoktorID }, new { @id = "detaylink" }) |
+    @Html.ActionLink("Geri Dön", "Index", null, new { @id = "detaylink" })  
+</p>
