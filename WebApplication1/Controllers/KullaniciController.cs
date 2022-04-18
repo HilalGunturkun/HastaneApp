@@ -213,7 +213,7 @@ namespace WebApplication1.Controllers
             db.Randevular.Add(randevu);
             db.SaveChanges();
 
-            return RedirectToAction("Index");
+            return RedirectToAction("Index"); 
         }
     }
 }
