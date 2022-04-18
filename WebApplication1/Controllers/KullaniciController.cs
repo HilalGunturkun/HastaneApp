@@ -210,8 +210,14 @@ namespace WebApplication1.Controllers
             randevu.SehirID = Convert.ToInt32(anasayfa.SehirID);
             randevu.IlceID = Convert.ToInt32(anasayfa.IlceID);
 
-            db.Randevular.Add(randevu);
-            db.SaveChanges();
+            var randevuAlmaa = db.Randevular.ToList().Where(r => r.TarihID == Convert.ToInt32(anasayfa.TarihID) && r.SaatID == randevu.SaatID);
+
+            if (randevuAlmaa.Count() == 0)
+            {
+                db.Randevular.Add(randevu);
+                db.SaveChanges();
+
+            }
 
             return RedirectToAction("Index"); 
         }

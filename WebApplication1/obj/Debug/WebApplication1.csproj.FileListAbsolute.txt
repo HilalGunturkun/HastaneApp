@@ -1,0 +1,1196 @@
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\HİLAL\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\21.02.22\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hilal\Desktop\Kurs\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hilal\Desktop\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hilal\Desktop\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje - Kopya\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hilal\Desktop\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\HİLAL\23.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\HİLAL\24.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\HİLAL\25.03.22\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\HİLAL\28.03.22\Yeni klasör (2)\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hilal\Desktop\Yeni klasör\Yeni klasör\21.02.22 proje\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hilal\Desktop\PROJELER\.NET MVC e-Randevu Sitesi\MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
